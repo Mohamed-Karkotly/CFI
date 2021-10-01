@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cfi-tr.web.app/</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/slide-1.jpg</image:loc>
+        <image:title>City Lights - first slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/slide-2.png</image:loc>
+        <image:title>City Lights - second slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/slide-3.png</image:loc>
+        <image:title>City Lights - third slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>CFI Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/Bastide.png</image:loc>
+        <image:title>Bastide Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/Dullberg.png</image:loc>
+        <image:title>Dullberg Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/Aroscent.png</image:loc>
+        <image:title>Aroscent Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/favicon/CFI-Text-Logo.svg</image:loc>
+        <image:title>CFI</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/bottle1.jpg</image:loc>
+        <image:title>Bottle1</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/bottle2.jpg</image:loc>
+        <image:title>Bottle2</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/bottle3.jpg</image:loc>
+        <image:title>Bottle3</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/team-members/Yasser-Obeid.jpg</image:loc>
+        <image:title>Yasser Obeid</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/team-members/Mohamed-Karkotly.jpg</image:loc>
+        <image:title>Mohamed Karokotly</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/team-members/Ahmad_Jaza.png</image:loc>
+        <image:title>Ahmad Jazeh</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/team-members/Ahmad_Saddour.png</image:loc>
+        <image:title>Ahmad Saddour</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/phone-call.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/envelope.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/planet-earth.png</image:loc>
+        <image:title>website</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/home.png</image:loc>
+        <image:title>Address</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/phone-call2.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/assets/images/envelope2.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/en/our-applications</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/slide-4.jpg</image:loc>
+        <image:title>City Lights - fourth slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/fine-fragrance.png</image:loc>
+        <image:title>fine fragrances</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/Aroma-chemicals.png</image:loc>
+        <image:title>aroma chemicals</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/essential-oil.png</image:loc>
+        <image:title>essential oil</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/automotive.png</image:loc>
+        <image:title>automotive</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/detergnt.png</image:loc>
+        <image:title>detergent</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/en/faq</loc>
+    <lastmod>2020-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/faq.png</image:loc>
+        <image:title>FAQ-image</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/tr/ev</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/slide-1.jpg</image:loc>
+        <image:title>City Lights - first slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/slide-2.png</image:loc>
+        <image:title>City Lights - second slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/slide-3.png</image:loc>
+        <image:title>City Lights - third slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>CFI Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/Bastide.png</image:loc>
+        <image:title>Bastide Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/Dullberg.png</image:loc>
+        <image:title>Dullberg Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/Aroscent.png</image:loc>
+        <image:title>Aroscent Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/favicon/CFI-Text-Logo.svg</image:loc>
+        <image:title>CFI</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/bottle1.jpg</image:loc>
+        <image:title>Bottle1</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/bottle2.jpg</image:loc>
+        <image:title>Bottle2</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/bottle3.jpg</image:loc>
+        <image:title>Bottle3</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/team-members/Yasser-Obeid.jpg</image:loc>
+        <image:title>Yasser Obeid</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/team-members/Mohamed-Karkotly.jpg</image:loc>
+        <image:title>Mohamed Karokotly</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/team-members/Ahmad_Jaza.png</image:loc>
+        <image:title>Ahmad Jazeh</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/team-members/Ahmad_Saddour.png</image:loc>
+        <image:title>Ahmad Saddour</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/phone-call.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/envelope.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/planet-earth.png</image:loc>
+        <image:title>website</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/home.png</image:loc>
+        <image:title>Address</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/phone-call2.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/envelope2.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/ar/home</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/slide-1.jpg</image:loc>
+        <image:title>أضواء المدينة - 1</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/slide-2.png</image:loc>
+        <image:title>City Lights - second slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/slide-3.png</image:loc>
+        <image:title>City Lights - third slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>CFI Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/Bastide.png</image:loc>
+        <image:title>Bastide Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/Dullberg.png</image:loc>
+        <image:title>Dullberg Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/Aroscent.png</image:loc>
+        <image:title>Aroscent Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/bottle1.jpg</image:loc>
+        <image:title>Bottle1</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/bottle2.jpg</image:loc>
+        <image:title>Bottle2</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/bottle3.jpg</image:loc>
+        <image:title>Bottle3</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/team-members/Yasser-Obeid.jpg</image:loc>
+        <image:title>ياسر عبيد</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/team-members/Mohamed-Karkotly.jpg</image:loc>
+        <image:title>Mohamed Karokotly</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/team-members/Ahmad_Jaza.png</image:loc>
+        <image:title>أحمد جازة</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/team-members/Ahmad_Saddour.png</image:loc>
+        <image:title>أحمد صدور</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/phone-call.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/envelope.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/planet-earth.png</image:loc>
+        <image:title>website</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/home.png</image:loc>
+        <image:title>Address</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/phone-call2.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/envelope2.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/en/home</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/slide-1.jpg</image:loc>
+        <image:title>City Lights - first slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/slide-2.png</image:loc>
+        <image:title>City Lights - second slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/slide-3.png</image:loc>
+        <image:title>City Lights - third slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>CFI Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/Bastide.png</image:loc>
+        <image:title>Bastide Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/Dullberg.png</image:loc>
+        <image:title>Dullberg Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/Aroscent.png</image:loc>
+        <image:title>Aroscent Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/favicon/CFI-Text-Logo.svg</image:loc>
+        <image:title>CFI</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/bottle1.jpg</image:loc>
+        <image:title>Bottle1</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/bottle2.jpg</image:loc>
+        <image:title>Bottle2</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/bottle3.jpg</image:loc>
+        <image:title>Bottle3</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/team-members/Yasser-Obeid.jpg</image:loc>
+        <image:title>Yasser Obeid</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/team-members/Mohamed-Karkotly.jpg</image:loc>
+        <image:title>Mohamed Karokotly</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/team-members/Ahmad_Jaza.png</image:loc>
+        <image:title>Ahmad Jazeh</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/team-members/Ahmad_Saddour.png</image:loc>
+        <image:title>Ahmad Saddour</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/phone-call.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/envelope.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/planet-earth.png</image:loc>
+        <image:title>website</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/home.png</image:loc>
+        <image:title>Address</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/phone-call2.png</image:loc>
+        <image:title>call</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/envelope2.png</image:loc>
+        <image:title>email</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/en/why-cfi</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/slide-5.jpg</image:loc>
+        <image:title>City Lights - fifth slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/favicon/CFI-Text-Logo.svg</image:loc>
+        <image:title>CFI</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/service.png</image:loc>
+        <image:title>service icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/allies.png</image:loc>
+        <image:title>allies icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/work-with-you.png</image:loc>
+        <image:title>work icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/en/assets/images/dots.png</image:loc>
+        <image:title>bullet dots icon</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/ar/faq</loc>
+    <lastmod>2020-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/faq.png</image:loc>
+        <image:title>FAQ-image</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/tr/uygulamalarimiz</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/slide-4.jpg</image:loc>
+        <image:title>City Lights - fourth slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/fine-fragrance.png</image:loc>
+        <image:title>Güzel Kokular</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/Aroma-chemicals.png</image:loc>
+        <image:title>Aroma Kimyasalları</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/essential-oil.png</image:loc>
+        <image:title>Uçucu yağlar</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/automotive.png</image:loc>
+        <image:title>automotive</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/detergnt.png</image:loc>
+        <image:title>Deterjan</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/ar/why-cfi</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/slide-5.jpg</image:loc>
+        <image:title>City Lights - fifth slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/service.png</image:loc>
+        <image:title>service icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/allies.png</image:loc>
+        <image:title>allies icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/work-with-you.png</image:loc>
+        <image:title>work icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/dots.png</image:loc>
+        <image:title>bullet dots icon</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/ar/our-applications</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/slide-4.jpg</image:loc>
+        <image:title>City Lights - fourth slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/fine-fragrance.png</image:loc>
+        <image:title>fine fragrances</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/Aroma-chemicals.png</image:loc>
+        <image:title>aroma chemicals</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/essential-oil.png</image:loc>
+        <image:title>essential oil</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/automotive.png</image:loc>
+        <image:title>automotive</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/ar/assets/images/detergnt.png</image:loc>
+        <image:title>detergent</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/tr/neden-cfi</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/slide-5.jpg</image:loc>
+        <image:title>City Lights - fifth slide</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/favicon/CFI-Text-Logo.svg</image:loc>
+        <image:title>CFI</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/CFI-Logo.svg</image:loc>
+        <image:title>Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/service.png</image:loc>
+        <image:title>service icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/allies.png</image:loc>
+        <image:title>allies icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/work-with-you.png</image:loc>
+        <image:title>work icon</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/dots.png</image:loc>
+        <image:title>bullet dots icon</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/tr/sss</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+      <image:image>
+        <image:loc>https://cfi-tr.web.app/tr/assets/images/faq.png</image:loc>
+        <image:title>FAQ-image</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://cfi-tr.web.app/404</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
